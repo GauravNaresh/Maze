@@ -13,7 +13,6 @@ import java.util.Scanner;
 
 /*
  * Generates maze for a given row and column
- * @author Ashwin kumar Muruganandam
  * */
 
 public class MazeGen extends Frame {
